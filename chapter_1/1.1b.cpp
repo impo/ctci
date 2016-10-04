@@ -16,6 +16,8 @@
  * We use up 128 bytes for the char array.
  *
  * HOW COULD YOU IMPROVE THIS?
+ * Immediately return false if our string is longer than 128 characters.
+ *
  * Storing our state in a bool array instead of a char array, since all we
  * need to know is whether or not we have seen the character before or not.
  *
