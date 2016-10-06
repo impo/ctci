@@ -19,7 +19,7 @@
  * quicksort, so roughly O(log(n)) or O(n).
  *
  * WHAT COULD YOU IMPROVE?
- * Before, sorting, check if the two strings are equal. This improves our
+ * Before sorting, check if the two strings are equal. This improves our
  * average-case time complexity.
  *
  * Check if the two strings are of equal length. If not, return false.
