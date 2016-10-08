@@ -13,8 +13,8 @@ suffers from that worst-case time complexity.
 ## Progress
 | Completed     | Chapter #     |           Chapter Name            | # of problems |
 | ------------- | ------------- | --------------------------------- | ------------- |
-| [x]           | 1             | Arrays and Strings                | 9             |
-| [ ]           | 2             | Linked Lists                      | 8             |
+| - [x]         | 1             | Arrays and Strings                | 9             |
+| - [ ]         | 2             | Linked Lists                      | 8             |
 | [ ]           | 3             | Stacks and Queues                 | 6             |
 | [ ]           | 4             | Trees and Graphs                  | 12            |
 | [ ]           | 5             | Bit Manipulation                  | 8             |
