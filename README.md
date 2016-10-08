@@ -11,20 +11,20 @@ suffers from that worst-case time complexity.
 * What could be done better? - An explanation of any improvements that might be made to the solution.
 
 ## Progress
-- [x] Chapter 1
-- [ ] Chapter 2
-- [ ] Chapter 3
-- [ ] Chapter 4
-- [ ] Chapter 5
-- [ ] Chapter 6
-- [ ] Chapter 7
-- [ ] Chapter 8
-- [ ] Chapter 9
-- [ ] Chapter 10
-- [ ] Chapter 11
-- [ ] Chapter 12
-- [ ] Chapter 13
-- [ ] Chapter 14
-- [ ] Chapter 15
-- [ ] Chapter 16
-- [ ] Chapter 17
+- [x] Chapter 1 -  Arrays and Strings                - 9 problems
+- [ ] Chapter 2 -  Linked Lists                      - 8 problems
+- [ ] Chapter 3 -  Stacks and Queues                 - 6 problems
+- [ ] Chapter 4 -  Trees and Graphs                  - 12 problems
+- [ ] Chapter 5 -  Bit Manipulation                  - 8 problems
+- [ ] Chapter 6 -  Math and Logic Puzzles            - 10 problems
+- [ ] Chapter 7 -  Object-Oriented Design            - 12 problems
+- [ ] Chapter 8 -  Recursion and Dynamic Programming - 14 problems
+- [ ] Chapter 9 -  System Design and Scalability     - 8 problems
+- [ ] Chapter 10 - Sorting and Searching             - 11 problems
+- [ ] Chapter 11 - Testing                           - 6 problems
+- [ ] Chapter 12 - C and C++                         - 11 problems
+- [ ] Chapter 13 - Java                              - 8 problems
+- [ ] Chapter 14 - Databases                         - 7 problems
+- [ ] Chapter 15 - Threads and Locks                 - 7 problems
+- [ ] Chapter 16 - Moderate                          - 26 problems
+- [ ] Chapter 17 - Hard                              - 26 problems
