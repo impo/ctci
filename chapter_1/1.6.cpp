@@ -32,9 +32,8 @@
  * 3n storage. We drop the constant to get O(n).
  *
  * WHAT COULD YOU IMPROVE?
- * I might be able to take advantage of the fact that the string can only contain
- * alphabetical characters. There may be some way to drop the space complexity of my
- * answer, though I'm not sure what that might be.
+ * We could check for the length of the compressed string up front, instead of building
+ * the string and comparing lengths at the end of the compress method.
  */
 #include <string>
 #include <iostream>
