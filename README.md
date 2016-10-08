@@ -11,7 +11,7 @@ suffers from that worst-case time complexity.
 * What could be done better? - An explanation of any improvements that might be made to the solution.
 
 ## Progress
-| Completed     | Chapter #     |           Chapter Name            | # of problems |
+| ☑             | Chapter #     |           Chapter Name            | # of problems |
 | ------------- | ------------- | --------------------------------- | ------------- |
 | ☑             | 1             | Arrays and Strings                | 9             |
 | ☐             | 2             | Linked Lists                      | 8             |
