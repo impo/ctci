@@ -13,6 +13,10 @@
  * WHAT COULD YOU IMPROVE?
  * I could make the stacks dynamically sized and fill them according to a circular buffer,
  * but it would alter the complexity of the solution dramatically.
+ *
+ * NOTES:
+ * I ended up reading the solution on this one, as I the hints led me to believe that
+ * the "correct" answer used a circular buffer.
  */
 #include <iostream>
 #include <cassert>
