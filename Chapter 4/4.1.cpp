@@ -1,3 +1,25 @@
+/*
+ * PROBLEM:
+ * Given a directed graph, design an algorithm to find out whether there is a route
+ * between two nodes.
+ *
+ * IMPLEMENTATION:
+ * Perform depth-first search on the graph. Start from the source node and continue
+ * the search until you visit the target node. If you never find the target node,
+ * return false.
+ *
+ * TIME COMPLEXITY:
+ * O(V+E), as we use an adjacency list to represent edges between nodes. We visit
+ * each node and each edge once, with O(1) time for every visit. This we have
+ * O(V) + O(E) time complexity, or O(V + E).
+ *
+ * SPACE COMPLEXITY:
+ * O(V^2). Suppose every vertex has edges to every other vertex. Then each vertex
+ * stores V edges, making O(V*V) = O(V^2) storage.
+ *
+ * WHAT COULD YOU IMPROVE?
+ * Depending on the average use case of this algorithm, BFS may be faster.
+ */
 #include <vector>
 #include <iostream>
 
