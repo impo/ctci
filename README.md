@@ -14,8 +14,8 @@ suffers from that worst-case time complexity.
 | ☑             | Chapter #     |           Chapter Name            | # of problems |
 | ------------- | ------------- | --------------------------------- | ------------- |
 | ☑             | 1             | Arrays and Strings                | 9             |
-| ☐             | 2             | Linked Lists                      | 8             |
-| ☐             | 3             | Stacks and Queues                 | 6             |
+| ☑             | 2             | Linked Lists                      | 8             |
+| ☑             | 3             | Stacks and Queues                 | 6             |
 | ☐             | 4             | Trees and Graphs                  | 12            |
 | ☐             | 5             | Bit Manipulation                  | 8             |
 | ☐             | 6             | Math and Logic Puzzles            | 10            |
