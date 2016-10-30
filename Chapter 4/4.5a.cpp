@@ -22,7 +22,7 @@ bool is_bst(const tree* root)
 		return true;
 
 	bool first = (root->left == nullptr) || (root->left->data < root->data);
-	bool second = (root->right == nullptr) || (root->right->data < root->data);
+	bool second = (root->right == nullptr) || (root->right->data > root->data);
 
 	return first && second && is_bst(root->left) && is_bst(root->right);
 }
