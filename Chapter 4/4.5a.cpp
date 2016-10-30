@@ -1,3 +1,15 @@
+/*
+ * FALSE START:
+ * Does not work because it only checks if each node is "balanced,"
+ * not if the entire binary tree is a search tree.
+ *
+ * It would incorrectly return true  on the following tree:
+ * 		20
+ * 	       /  \
+ * 	      10  30
+ * 	       \
+ * 	       25
+ */
 struct tree {
 	tree* left = nullptr;
 	tree* right = nullptr;
