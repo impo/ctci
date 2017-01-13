@@ -17,7 +17,7 @@ suffers from that worst-case time complexity.
 | ☑             | 2             | Linked Lists                      | 8             |
 | ☑             | 3             | Stacks and Queues                 | 6             |
 | ☑             | 4             | Trees and Graphs                  | 12            |
-| ☐             | 5             | Bit Manipulation                  | 8             |
+| ☑             | 5             | Bit Manipulation                  | 8             |
 | ☐             | 6             | Math and Logic Puzzles            | 10            |
 | ☐             | 7             | Object-Oriented Design            | 12            |
 | ☐             | 8             | Recursion and Dynamic Programming | 14            |
